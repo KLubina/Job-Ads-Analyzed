@@ -1,0 +1,35 @@
+1. Install Python
+
+-> go to your Terminal/Command Prompt
+
+2. To check your Python
+C:\users\X>python -version
+
+3. Create a virtual enviroment in Python
+C:\users\X>python -m venv env
+
+-m venv = virtual enviroment is created
+env= name of the virtual enviroment
+
+4. Activate your virtual enviroment
+C:\users\X>env\Scripts\activate
+
+5. Install Selenium
+C:\users\X>pip install selenium
+
+6. Create your Script-File
+C:\users\X>echo. >webscraper.py
+
+7. Open the File
+C:\users\X>webscraper.py
+
+8. Lets write in the webscraper.py-File
+from selenium import webdriver
+
+url='LINK'
+browser=webdriver.Chrome()browser.get(url)
+
+browser.find_element_by_xpath(XPATH FROM WEB-INSPECTION/HTML).click()
+
+9. let's run the Webpage/File
+C:\users\KLubina>python webscraper.py
