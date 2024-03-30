@@ -1,6 +1,6 @@
-'VB.NET was designed to be easy to learn and use. Visual Studio is the IDE in which it is typically developed.'
-'VB.NET can be considered as a Pseudocode. Pseudocodes are written in plain language. The intention of pseudeocodes is to provide easy coding for someone who is familiar with programming concepts (algorithmic thinking) but not more than that.'
-'It is common to use pseudocodes as a step in the development process of an Software. After writing a pseudocode, a developer will translate into the actual code in the programming language of their choice'
+'VB.NET was designed to be easy to learn and use. Visual Studio is the IDE in which it is typically developed. 
+'VB.NET can be considered as a Pseudocode. Pseudocodes are written in plain language. The intention of pseudeocodes is to provide easy coding for someone who is familiar with programming concepts (algorithmic thinking) but not more than that.
+'It is common to use pseudocodes as a step in the development process of an Software. After writing a pseudocode, a developer will translate into the actual code in the programming language of their choice.
 
 Start
 
