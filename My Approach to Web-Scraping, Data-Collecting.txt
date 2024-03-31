@@ -1,0 +1,4 @@
+1.1 real human, manual approach of Data-Collecting from WWW/Websites 
+1.2 Note down in a Program-Flowchart how you manually collected the data
+
+2. Turn this Program-Flowchart into a Application
