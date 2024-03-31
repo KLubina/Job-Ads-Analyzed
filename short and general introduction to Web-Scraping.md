@@ -10,7 +10,7 @@ such as BeautifulSoup and Scrapy for parsin HTML and XML documents, and Requests
 
 However, web scraping must de done responsibly to avoid overloading the website's servers or violating its terms fo service. 
 It's essential to respect the 'robots.txt' file of websites, which specifies the areas of the site that are off-limits to crawlers. 
-Moreover, **web scrapers should be designed to mimic human browsing behavior** as closely as possible by making requests at 
+Moreover, ***web scrapers should be designed to mimic human browsing behavior*** as closely as possible by making requests at 
 a reasonable rate and roating user agents to minimize the risk of being blocked.
 
 In summary, web scraping is a valuable technique for automated data collection from the web, 
