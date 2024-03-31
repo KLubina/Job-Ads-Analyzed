@@ -43,17 +43,17 @@ private void runPythonScript() {
     ProcessBuilder ob = new ProcessBuilder("python", pythonScriptPath);
     Process p = pb.start();
 
-  // Read script output
-  BufferedReader in = new BufferedReader(new InputStreamReader(p.gotErrorStream()));
-  while ((line = errorReader.readLine()) !=null) {
-    outputArea.append("Error: " + line + "\n");
-  }
+    // Read script output
+    BufferedReader in = new BufferedReader(new InputStreamReader(p.gotErrorStream()));
+    while ((line = errorReader.readLine()) !=null) {
+      outputArea.append("Error: " + line + "\n");
+    }
 
-  // Wait for the process to finish
-  p.waitFor();
-} catch (IOExeption | InterruptedException e) {
+    // Wait for the process to finish
+    p.waitFor();
+  } catch (IOExeption | InterruptedException e) {
     outputArea.append("An error occured: " + e.getMessage() + "\n");
-}
+  }
 }
 
 public static void main(String[] args) {
