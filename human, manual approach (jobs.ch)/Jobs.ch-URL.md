@@ -4,4 +4,4 @@
 - ...
 - fifth page: https://www.jobs.ch/de/stellenangebote/?location=z%C3%BCrich&page=50term=it-support
 
-- third page: https://www.jobs.ch/de/stellenangebote/?location=z%C3%BCrich&page=<ins>3<\ins>&term=it-support
+- third page: https://www.jobs.ch/de/stellenangebote/?location=z%C3%BCrich&page=<ins>3</ins>&term=it-support
