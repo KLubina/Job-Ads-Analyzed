@@ -4,6 +4,6 @@ I will write and work on a script/programme too so that I will be able to effici
 
 I think this will be a life-long project on which I will maybe work for life-time.
 
-https://linkedin.github.io/career-explorer/
-https://www.stellenmarktmonitor.uzh.ch/de/indices/fachkraeftemangel.html
-https://www.stellenmarktmonitor.uzh.ch/de/indices/asjmi.html
+- https://linkedin.github.io/career-explorer/
+- https://www.stellenmarktmonitor.uzh.ch/de/indices/fachkraeftemangel.html
+- https://www.stellenmarktmonitor.uzh.ch/de/indices/asjmi.html
